@@ -1,0 +1,6 @@
+name: DuRoom JavaScript Build
+description: Automatically compile your extension's JavaScript files
+author: 'DuRoom'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
